@@ -1,3 +1,11 @@
+<img width="738" alt="Screenshot 2024-04-06 at 4 49 37 PM" src="https://github.com/yash1601/nextJS-todo-app/assets/50968654/f0f4c395-2814-4e56-963e-6edba8e1edbe">
+
+
+<img width="731" alt="Screenshot 2024-04-06 at 4 50 18 PM" src="https://github.com/yash1601/nextJS-todo-app/assets/50968654/84a184c7-1bd1-499a-8fb6-4fd0898bf3d5">
+
+
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
